@@ -1,3 +1,6 @@
+## 魔塔模型存放  
+https://www.modelscope.cn/models/dtiosd/qwen1.5b_lora/files  
+https://www.modelscope.cn/models/dtiosd/mymodels  
 ### 1.下载ollama源码  
 https://github.com/ollama/ollama/tree/main
 
