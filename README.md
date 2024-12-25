@@ -1,5 +1,7 @@
 ## 魔塔模型存放  
+自我认知+弱智吧问题  
 https://www.modelscope.cn/models/dtiosd/qwen1.5b_lora/files  
+自我认知  
 https://www.modelscope.cn/models/dtiosd/mymodels  
 ### 1.下载ollama源码  
 https://github.com/ollama/ollama/tree/main
