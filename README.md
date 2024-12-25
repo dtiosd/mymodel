@@ -40,7 +40,7 @@ ollama create mymodels -f D:\ollama_models\test.Modelfile
   
 参考文档  
 https://blog.csdn.net/spiderwower/article/details/138506271  
-https://blog.csdn.net/m0_73365120/article/details/141901776
+https://blog.csdn.net/m0_73365120/article/details/141901776  
 https://blog.csdn.net/m0_73365120/article/details/141872756?spm=1001.2014.3001.5502  
 https://blog.csdn.net/m0_73365120/article/details/141901884?spm=1001.2014.3001.5502  
 https://blog.csdn.net/m0_73365120/article/details/141901776?spm=1001.2014.3001.5502
