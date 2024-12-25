@@ -1,15 +1,4 @@
-# mymodel
-微调Qwen2:1.5B自我认知  
-ollama模型存放  
-https://ollama.com/dtiosd/study  
-魔塔社区模型存放  
-https://www.modelscope.cn/models/dtiosd/mymodels  
-
-
-
-
-
-  ### 1.下载ollama源码  
+### 1.下载ollama源码  
 https://github.com/ollama/ollama/tree/main
 
 ### 2.下载llama.cpp源码  
@@ -52,3 +41,6 @@ ollama create mymodels -f D:\ollama_models\test.Modelfile
 参考文档  
 https://blog.csdn.net/spiderwower/article/details/138506271  
 https://blog.csdn.net/m0_73365120/article/details/141901776
+https://blog.csdn.net/m0_73365120/article/details/141872756?spm=1001.2014.3001.5502  
+https://blog.csdn.net/m0_73365120/article/details/141901884?spm=1001.2014.3001.5502  
+https://blog.csdn.net/m0_73365120/article/details/141901776?spm=1001.2014.3001.5502
