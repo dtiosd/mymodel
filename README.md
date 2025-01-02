@@ -37,6 +37,8 @@ PARAMETER stop "<|im_end|>"
 
 生成ollama文件  
 这是配置文件的路径  
+D:\ollama_models\Modelfile    
+或
 D:\ollama_models\test.Modelfile    
 ollama create mymodels -f D:\ollama_models\test.Modelfile  
   
