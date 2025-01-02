@@ -20,7 +20,7 @@ D:\ollama_models\mymodels.bin
 python ollama/llm/llama.cpp/convert_hf_to_gguf.py D:\ollama_models\mymodels --outtype f16 --outfile D:\ollama_models\mymodels.bin
 
 ### 5.配置文件，生成ollama文件  
-创建配置文件test.Modelfile  
+创建配置文件test.Modelfile或Modelfile  
 配置文件内容：  
 ```
 FROM D:\ollama_models\mymodels.bin  
